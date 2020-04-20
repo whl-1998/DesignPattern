@@ -1,4 +1,4 @@
-package com.whl.designPrinciples.iocAndDi.notifySystem;
+package com.whl.codes.designPrinciples.iocAndDi.notifySystem;
 
 /**
  * @author whl
@@ -7,4 +7,6 @@ package com.whl.designPrinciples.iocAndDi.notifySystem;
  * @Description:
  */
 public class MessageSender {
+    public void send(String cellphone, String message) {
+    }
 }

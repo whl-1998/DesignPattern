@@ -1,4 +1,4 @@
-### 面向对象设计思想
+### 一、面向对象设计思想
 
 ##### 总结：
 
@@ -29,9 +29,9 @@ MVC开发模式与DDD开发模式：
 * [请求过滤系统](https://github.com/whl-1998/DesignPattern/tree/master/src/com/whl/codes/oop/abstractClassAndInterface/filterSystem)
 * [日志模块](https://github.com/whl-1998/DesignPattern/tree/master/src/com/whl/codes/oop/abstractClassAndInterface/logSystem)
 
+****
 
-
-### 设计原则
+### 二、设计原则
 
 ##### 总结：
 
@@ -62,6 +62,6 @@ MVC开发模式与DDD开发模式：
 * [隔离接口机制："配置类" 的热部署与通过web获取 "配置类" 的信息组合](https://github.com/whl-1998/DesignPattern/tree/master/src/com/whl/codes/designPrinciples/interfaceSegregationPrinciple/segregationInteface)
 * [隔离单个Api接口（方法接口）：将方法中的多职责分离为单职责](https://github.com/whl-1998/DesignPattern/tree/master/src/com/whl/codes/designPrinciples/interfaceSegregationPrinciple/segregationSingleApi)
 
-
+****
 
 ### Gof23 设计模式

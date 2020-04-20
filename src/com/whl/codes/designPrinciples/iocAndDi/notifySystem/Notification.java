@@ -1,4 +1,4 @@
-package com.whl.designPrinciples.iocAndDi.notifySystem;
+package com.whl.codes.designPrinciples.iocAndDi.notifySystem;
 
 /**
  * @author whl
