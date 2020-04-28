@@ -1,4 +1,4 @@
-### 一、面向对象设计思想
+#面向对象设计思想
 
 ##### 总结：
 
@@ -29,17 +29,18 @@ MVC开发模式与DDD开发模式：
 * [请求过滤系统](https://github.com/whl-1998/DesignPattern/tree/master/src/com/whl/codes/oop/abstractClassAndInterface/filterSystem)
 * [日志模块](https://github.com/whl-1998/DesignPattern/tree/master/src/com/whl/codes/oop/abstractClassAndInterface/logSystem)
 
-****
 
-### 二、设计原则
 
-##### 总结：
+# 设计原则
 
 1. [单一职责原则](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/summaries/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B8%8E%E6%80%9D%E6%83%B3%EF%BC%9A%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/01_SOLID_%E5%8D%95%E4%B8%80%E8%81%8C%E8%B4%A3%E5%8E%9F%E5%88%99.md)
 2. [开闭原则](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/summaries/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B8%8E%E6%80%9D%E6%83%B3%EF%BC%9A%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/02_SOLID_%E5%BC%80%E9%97%AD%E5%8E%9F%E5%88%99.md)
 3. [里式替换原则](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/summaries/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B8%8E%E6%80%9D%E6%83%B3%EF%BC%9A%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/03_SOLID_%E9%87%8C%E5%BC%8F%E6%9B%BF%E6%8D%A2%E5%8E%9F%E5%88%99.md)
 4. [接口隔离原则](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/summaries/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B8%8E%E6%80%9D%E6%83%B3%EF%BC%9A%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/04_SOLID_%E6%8E%A5%E5%8F%A3%E9%9A%94%E7%A6%BB%E5%8E%9F%E5%88%99.md)
-5. [依赖反转 + 依赖注入与控制反转原则](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/summaries/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B8%8E%E6%80%9D%E6%83%B3%EF%BC%9A%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/05_SOLID_%E4%BE%9D%E8%B5%96%E5%8F%8D%E8%BD%AC%E5%8E%9F%E5%88%99_%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E4%B8%8E%E6%8E%A7%E5%88%B6%E5%8F%8D%E8%BD%AC.md)
+5. [依赖反转原则 + 控制反转/依赖注入](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/summaries/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B8%8E%E6%80%9D%E6%83%B3%EF%BC%9A%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/05_SOLID_%E4%BE%9D%E8%B5%96%E5%8F%8D%E8%BD%AC%E5%8E%9F%E5%88%99_%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E4%B8%8E%E6%8E%A7%E5%88%B6%E5%8F%8D%E8%BD%AC.md)
+6. KISS原则
+7. YAGNI原则
+8. DRY原则
 
 ##### Codes：
 
@@ -62,6 +63,32 @@ MVC开发模式与DDD开发模式：
 * [隔离接口机制："配置类" 的热部署与通过web获取 "配置类" 的信息组合](https://github.com/whl-1998/DesignPattern/tree/master/src/com/whl/codes/designPrinciples/interfaceSegregationPrinciple/segregationInteface)
 * [隔离单个Api接口（方法接口）：将方法中的多职责分离为单职责](https://github.com/whl-1998/DesignPattern/tree/master/src/com/whl/codes/designPrinciples/interfaceSegregationPrinciple/segregationSingleApi)
 
-****
 
-### Gof23 设计模式
+
+# Gof23 设计模式
+
+### 创建型：
+
+* [单例模式]([https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/summaries/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E8%8C%83%E5%BC%8F%EF%BC%9A%E5%88%9B%E5%BB%BA%E5%9E%8B/01_%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/summaries/设计模式与范式：创建型/01_单例模式.md))：
+  * [懒汉式](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/codes/designPatterns/creation/singleton/IdGenerator.java)
+  * [饿汉式](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/codes/designPatterns/creation/singleton/IdGeneratorLazyLoad.java)
+  * [双重检测](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/codes/designPatterns/creation/singleton/IdGeneratorDoubleCheck.java)
+  * [静态内部类](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/codes/designPatterns/creation/singleton/IdGeneratorInnerClz.java)
+  * [枚举](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/codes/designPatterns/creation/singleton/IdGeneratorEnum.java)
+  * [线程间单例](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/codes/designPatterns/creation/singleton/IdGeneratorOfThread.java)
+* 工厂模式：
+  * 简单工厂
+  * 工厂方法
+  * 抽象工厂方法
+* 构建器模式：
+* 原型模式：
+
+### 结构型：
+
+* 代理模式：
+  * 静态代理
+  * 动态代理
+* 
+
+### 行为型：
+
