@@ -1,4 +1,4 @@
-package com.whl.codes.designPatterns.creation.singleton.id_generator;
+package com.whl.codes.designPatterns.creation.singleton;
 
 import java.util.concurrent.atomic.AtomicLong;
 
@@ -15,6 +15,10 @@ public enum IdGeneratorEnum {
 
     public long getId() {
         return id.incrementAndGet();
+    }
+
+    public static void main(String[] args) {
+        IdGeneratorEnum.INSTANCE.getId();
     }
 }
 

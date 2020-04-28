@@ -1,11 +1,11 @@
-package com.whl.codes.designPatterns.creation.singleton.id_generator;
+package com.whl.codes.designPatterns.creation.singleton;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * @author whl
  * @version V1.0
- * @Title: 支持lazy-load, 双重检测
+ * @Title: 懒汉式单例
  * @Description:
  */
 public class IdGeneratorLazyLoad {
