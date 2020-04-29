@@ -80,12 +80,12 @@ MVC开发模式与DDD开发模式：
   * [静态内部类](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/codes/designPatterns/creation/singleton/IdGeneratorInnerClz.java)
   * [枚举](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/codes/designPatterns/creation/singleton/IdGeneratorEnum.java)
   * [线程间单例](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/codes/designPatterns/creation/singleton/IdGeneratorOfThread.java)
-* 工厂模式：
-  * 简单工厂
-  * 工厂方法
+* [工厂模式](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/summaries/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E8%8C%83%E5%BC%8F%EF%BC%9A%E5%88%9B%E5%BB%BA%E5%9E%8B/02_%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)：
+  * [简单工厂](https://github.com/whl-1998/DesignPattern/tree/master/src/com/whl/codes/designPatterns/creation/factory/easy_factory)
+  * [工厂方法](https://github.com/whl-1998/DesignPattern/tree/master/src/com/whl/codes/designPatterns/creation/factory/factory_method)
   * 抽象工厂方法
-* 构建器模式：
-* 原型模式：
+* [构建器模式](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/summaries/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E8%8C%83%E5%BC%8F%EF%BC%9A%E5%88%9B%E5%BB%BA%E5%9E%8B/03_%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.md)：
+* [原型模式](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/summaries/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E8%8C%83%E5%BC%8F%EF%BC%9A%E5%88%9B%E5%BB%BA%E5%9E%8B/04_%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F.md)：
 
 ### 结构型：
 
