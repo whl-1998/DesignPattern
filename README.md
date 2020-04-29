@@ -40,10 +40,10 @@ MVC开发模式与DDD开发模式：
 5. [依赖反转原则 + 控制反转/依赖注入](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/summaries/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B8%8E%E6%80%9D%E6%83%B3%EF%BC%9A%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/05_SOLID_%E4%BE%9D%E8%B5%96%E5%8F%8D%E8%BD%AC%E5%8E%9F%E5%88%99_%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E4%B8%8E%E6%8E%A7%E5%88%B6%E5%8F%8D%E8%BD%AC.md)
 6. KISS原则
 7. YAGNI原则
-8. DRY原则
-   * 逻辑性重复
-   * 功能性重复
-   * 代码执行重复
+8. [DRY原则](https://github.com/whl-1998/DesignPattern/blob/master/src/com/whl/summaries/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B8%8E%E6%80%9D%E6%83%B3%EF%BC%9A%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/08_DRY%E5%8E%9F%E5%88%99.md)
+   * [逻辑性重复](https://github.com/whl-1998/DesignPattern/tree/master/src/com/whl/codes/designPrinciples/dry/logical)
+   * [功能性重复](https://github.com/whl-1998/DesignPattern/tree/master/src/com/whl/codes/designPrinciples/dry/function)
+   * [代码执行重复](https://github.com/whl-1998/DesignPattern/tree/master/src/com/whl/codes/designPrinciples/dry/codes)
 9. LOD原则
 
 ##### Codes：

@@ -1,6 +1,6 @@
 package com.whl.codes.designPatterns.creation.factory.easy_factory;
 
-import com.whl.codes.designPatterns.creation.factory.configParser.*;
+import com.whl.codes.designPatterns.creation.factory.*;
 
 import java.util.HashMap;
 import java.util.Map;
